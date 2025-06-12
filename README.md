@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/1080de67-a746-4bc1-9168-d3dedf7d4c7e)
+
+
 # Taxo-Analyzer-R
 
 Taxo-Analyzer-R provides custom R functions designed for taxonomic analysis and visualization of microbial community data. These tools facilitate automated calculation of taxon richness, sample-wise taxonomic summaries, diversity analysis, and the creation of publication-quality ecological plots.
