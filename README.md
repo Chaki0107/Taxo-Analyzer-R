@@ -55,6 +55,10 @@ If you use this code in your research, please cite this repository as:
 
 > Chahnez.Naccache, Taxo-Analyzer-R, GitHub repository, https://github.com/Chaki0107/Taxo-Analyzer-R
 
+For a permanent, citable version, please cite the Zenodo archive:
+
+Chahnez Naccache, Taxo-Analyzer-R, Zenodo, [https://doi.org/10.5281/zenodo.15647949]
+
 ## License for the code
 
 This project is licensed under the [MIT License](LICENSE).
