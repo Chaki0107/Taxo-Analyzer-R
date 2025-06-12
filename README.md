@@ -55,7 +55,7 @@ If you use this code in your research, please cite this repository as:
 
 > Chahnez.Naccache, Taxo-Analyzer-R, GitHub repository, https://github.com/Chaki0107/Taxo-Analyzer-R
 
-## License
+## License for the code
 
 This project is licensed under the [MIT License](LICENSE).
 
@@ -68,4 +68,7 @@ Feel free to contribute or open issues for bug reports and feature requests.
 The logo included in this repository is the intellectual property of Chahnez Naccache.  
 It is provided for identification purposes only and **may not be copied, modified, or used without explicit permission** from the author.  
 For inquiries about logo usage, please contact [chahneznaccache@yahoo.com].
+
+The logo and graphic assets are licensed under the [Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0)](LICENSE-LOGO.md).
+
 
