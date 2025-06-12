@@ -63,3 +63,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 Feel free to contribute or open issues for bug reports and feature requests.
 
+## License for the logo
+
+The logo included in this repository is the intellectual property of Chahnez Naccache.  
+It is provided for identification purposes only and **may not be copied, modified, or used without explicit permission** from the author.  
+For inquiries about logo usage, please contact [chahneznaccache@yahoo.com].
+
