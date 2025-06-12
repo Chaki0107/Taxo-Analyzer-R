@@ -71,4 +71,4 @@ For inquiries about logo usage, please contact [chahneznaccache@yahoo.com].
 
 The logo and graphic assets are licensed under the [Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0)](LICENSE-LOGO.md).
 
-
+[![License: CC BY-ND 4.0](https://licensebuttons.net/l/by-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nd/4.0/)
