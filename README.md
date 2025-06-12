@@ -57,7 +57,7 @@ If you use this code in your research, please cite this repository as:
 
 For a permanent, citable version, please cite the Zenodo archive:
 
-Chahnez Naccache, Taxo-Analyzer-R, Zenodo, [https://doi.org/10.5281/zenodo.15647949]
+Naccache, C. (2025). Taxo-Analyzer-R: Automated and clear visualization tools for optimized microbiome analysis (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.15647950
 
 ## License for the code
 
