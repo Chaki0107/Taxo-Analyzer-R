@@ -105,7 +105,7 @@ plot_div_vs_params <- function(data, diversity_col, param_cols, group_col) {
                otu_low <- as.data.frame(rowSums(phy_low@otu_table))
                colnames(otu_low) <- "ASVO"
                otu_low1 <- otu_table(otu_low, taxa_are_rows = FALSE)
-               tax_low1 <- tax_table(as.data.frame("Others"))
+               tax_low1 <- tax_table(matrix("Others"))
                colnames(tax_low1) <- taxa
                row.names(tax_low1) <- "ASVO"
                
